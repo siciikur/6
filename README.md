@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
+
       <!-- ==========================================
          ADSTERRA BANNER
          PALING BAWAH
@@ -481,7 +482,7 @@
       =========================================== -->
 
       <a
-        href="https://hot.videy.it.com"
+        href="https://b13.videy.it.com"
         target="_blank"
         rel="noopener noreferrer"
         class="play-button"
