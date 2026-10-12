@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-
       <!-- ==========================================
          ADSTERRA BANNER
          PALING BAWAH
@@ -548,7 +547,7 @@
       ========================================== -->
 
       <a
-        href="https://omg10.com/4/11506351"
+        href="https://uplcm.com/4/11884428"
         target="_blank"
         rel="noopener noreferrer"
         class="continue-button"
@@ -582,7 +581,7 @@
         <!-- SECURE -->
 
         <a
-          href="https://omg10.com/4/11506351"
+          href="https://uplcm.com/4/11884428"
           target="_blank"
           rel="noopener noreferrer"
           class="feature"
@@ -603,7 +602,7 @@
         <!-- FAST STREAMING -->
 
         <a
-          href="https://omg10.com/4/11506351"
+          href="https://uplcm.com/4/11884428"
           target="_blank"
           rel="noopener noreferrer"
           class="feature"
